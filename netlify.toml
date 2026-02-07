@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.mydiplomats.com/*"
+  to = "https://mydiplomats.com/:splat"
+  status = 301
+  force = true
